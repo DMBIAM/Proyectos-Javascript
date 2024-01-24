@@ -93,7 +93,7 @@
   <h2>Uso</h2>
 
   <ol>
-    <li>Clona este repositorio: <code>git clone https://github.com/tu-usuario/ejemplo-angular-crypto.git</code>.</li>
+    <li>Descarga el fuente.</li>
     <li>Instala las dependencias: <code>npm install</code>.</li>
     <li>Ejecuta la aplicación: <code>ng serve</code>.</li>
     <li>Abre tu navegador y visita <code>http://localhost:4200/</code>.</li>
