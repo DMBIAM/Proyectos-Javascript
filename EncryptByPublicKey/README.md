@@ -1,11 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Proyecto de Ejemplo - Integración de Funciones Criptográficas y Obtención de IP</title>
-</head>
-<body>
+
 
   <h1>Proyecto de Ejemplo - Integración de Funciones Criptográficas y Obtención de IP</h1>
 
@@ -101,5 +94,3 @@
 
   <p>¡Este proyecto te brinda una base para comprender y aplicar funciones criptográficas y servicios web en una aplicación Angular! Asegúrate de reemplazar las URLs y claves de ejemplo con valores válidos en tu implementación real.</p>
 
-</body>
-</html>
